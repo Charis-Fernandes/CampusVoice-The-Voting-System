@@ -13,17 +13,18 @@ voting, creating a sense of involvement and excitement.
 System Requirements
 
 Software Requirements-
-Windows (7 and above)
-IDE- VisualStudio code
-Python Library - Tkinter and customTkinter
+Windows (7 and above),
+IDE- VisualStudio code,
+Python Library - Tkinter and customTkinter,
 Database - Sqlite3
 
 Hardware Requirements-
-RAM - 2GB or more
+RAM - 2GB or more,
 Processor - Modern dual-core or better.
 
 To Run This Program-
 1) Download and open the "New Beginnings" folder on your preferred IDE
 2) Simply run the splash.py file
-Video Showcase is provided
+
+3)Video Showcase is provided
 
