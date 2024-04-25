@@ -26,5 +26,3 @@ To Run This Program-
 1) Download and open the "New Beginnings" folder on your preferred IDE
 2) Simply run the splash.py file
 
-3)Video Showcase is provided
-
