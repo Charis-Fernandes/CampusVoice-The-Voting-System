@@ -24,5 +24,5 @@ Processor - Modern dual-core or better.
 
 To Run This Program-
 1) Download and open the "New Beginnings" folder on your preferred IDE
-2) Simply run the splash.py file
+2) Simply run the splash.py file from the "miniproject" directory
 
